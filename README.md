@@ -1,7 +1,7 @@
 # Kaggle-Kernels
 ### The set of my public Kaggle kernels with description and links. [ENG]
 
-1. [**MMDetection-train**](https://github.com/t0efL/Kaggle-Kernels/blob/master/mmdetection-train.ipynb) 
+1. [**MMDetection-train**](https://github.com/t0efL/Kaggle-Kernels/blob/master/mmdetection-train.ipynb)   
   _Desription_: Train baseline for MMDetection with full requirements set up.  
   _Competition_: [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection)  
   [Kaggle link](https://www.kaggle.com/vadimtimakin/mmdetection-train)  
