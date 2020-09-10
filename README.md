@@ -10,3 +10,8 @@
   _Desription_: Multissesion K-fold CV train pipeline with creating annotation files for each fold for future training in diffrent runtimes + The example of annotation files         dataset for 5 folds training.  
   _Competition_: [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification)  
   [Kaggle link](https://www.kaggle.com/vadimtimakin/multisession-k-fold-af-dataset)
+
+3. [**Librosa Feature Generation**](https://github.com/t0efL/Kaggle-Kernels/blob/master/librosa-feature-generation.ipynb)  
+  _Desription_: Code for generation audio features with [librosa library](https://librosa.org/) including rhythm features.   
+  _Competition_: [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)  
+  [Kaggle link](https://www.kaggle.com/vadimtimakin/librosa-feature-generation)
