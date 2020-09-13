@@ -15,3 +15,8 @@
   _Desription_: Code for generation audio features with [librosa library](https://librosa.org/) including rhythm features.   
   _Competition_: [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)  
   [Kaggle link](https://www.kaggle.com/vadimtimakin/librosa-feature-generation)
+  
+4. [**Catboost Pipeline with Librosa Features**](https://github.com/t0efL/Kaggle-Kernels/blob/master/librosa-feature-generation.ipynb)  
+  _Desription_: Pipeline for training catboost classifier using tabular data representing the features of audio signals. The code for generating these features is [here](https://www.kaggle.com/vadimtimakin/librosa-feature-generation).  
+  _Competition_: [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)  
+  [Kaggle link](https://www.kaggle.com/vadimtimakin/catboost-pipeline-with-librosa-features)
