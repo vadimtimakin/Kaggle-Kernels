@@ -20,3 +20,13 @@
   _Desription_: Pipeline for training catboost classifier using tabular data representing the features of audio signals. The code for generating these features is [here](https://www.kaggle.com/vadimtimakin/librosa-feature-generation).  
   _Competition_: [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)  
   [Kaggle link](https://www.kaggle.com/vadimtimakin/catboost-pipeline-with-librosa-features)
+  
+5. [**Fast&Automated clean PyTorch pipeline [Train]**](https://github.com/t0efL/Kaggle-Kernels/blob/master/fast-automated-clean-pytorch-pipeline-train-part.ipynb)  
+  _Desription_: Training part of fast and automated pipeline for Cassava Leaf Disease Classification competition. It uses a set of tricks to optimize training. Written in PyTorch.   
+  _Competition_: [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard)  
+  [Kaggle link](https://www.kaggle.com/vadimtimakin/fast-automated-clean-pytorch-pipeline-train)
+  
+6. [**Fast&Automated clean PyTorch pipeline [Inference]**](https://github.com/t0efL/Kaggle-Kernels/blob/master/fast-automated-clean-pytorch-pipeline-inference.ipynb)  
+  _Desription_: Inference part of fast and automated pipeline for Cassava Leaf Disease Classification competition. Written in PyTorch.  
+  _Competition_: [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard)  
+  [Kaggle link](https://www.kaggle.com/vadimtimakin/fast-automated-clean-pytorch-pipeline-inference?scriptVersionId=51122611)
